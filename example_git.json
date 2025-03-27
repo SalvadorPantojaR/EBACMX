@@ -16,11 +16,16 @@
          "id": "05",
          "name": "Maria Huerta",
          "department": "Corpo"
+      },
+        {
+         "id": "06",
+         "name": "John Gonzalez",
+         "department": "RP"
       }
    ]
 }
 
-#Se añadieron apellidos y un nuevo id
+
     
  
 
